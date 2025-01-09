@@ -20,15 +20,13 @@
 </div>
 
   <br><br>
-<div>
-  <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/zzeon9"
-    width="500"
-    height="120" align="right"
-  />
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/zzeon9"
+  width="600"
+  height="300"
+/>
 </a>
-</div>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ecw1110)](https://solved.ac/ecw1110)
