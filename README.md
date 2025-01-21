@@ -18,8 +18,12 @@
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=square&logo=PostgreSQL&logoColor=white"/>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?&style=square&logo=Linux&logoColor=black"/>
 </div>
+<br>
 
-  <br><br>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ecw1110)](https://solved.ac/ecw1110)
+
+  <br>
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/zzeon9"
@@ -28,8 +32,6 @@
 />
 </a>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ecw1110)](https://solved.ac/ecw1110)
 
 
 
