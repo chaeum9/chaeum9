@@ -1,36 +1,41 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&section=header&text=zzeon9&fontSize=90&theme=tokyonight&animation=fadeIn)
-<div align="center">
-  welcome to my page! 🙃
-  
-  ### 🛠️ Tech Stack 🛠️
+# Welcome to my page! 
+
+## About Me
+> 사용자 중심의 문제 해결과 기술적 성장을 즐기는 백엔드 개발자입니다.   
+> 함께 성장하는 것이 곧 **최고의 개발**이라고 믿으며, 팀과 제품이 함께 나아갈 수 있도록 고민합니다.
+
+
+
+## Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-  
-  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=square&logo=Spring&logoColor=white"/>
-  <img alt="Spring Boot" src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=square&logo=SpringBoot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
  <!-- <img alt="Java" src="https://img.shields.io/badge/Java-%23323330.svg?style=square&logo=java&logoColor=white"/> -->
   <br>
-  <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=square&logo=javascript&logoColor=black"/>
-  <br>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=square&logo=MySQL&logoColor=white"/>
-  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000.svg?style=square&logo=Oracle&logoColor=white"/>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=square&logo=PostgreSQL&logoColor=white"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?&style=square&logo=Linux&logoColor=black"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=MySQL&logoColor=white"/>
+  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
 </div>
 <br>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=zzeon9&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/zzeon9?pet-id=709336252386404598"
+    width="600"
+    height="100"
+  />
+</a>
+  <br>
+  <br>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ecw1110)](https://solved.ac/ecw1110)
 
   <br>
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/zzeon9"
-  width="600"
-  height="300"
-/>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=ecw1110)](https://solved.ac/ecw1110)
+
+  
 </a>
-
-
-
-
-</div>
