@@ -23,6 +23,8 @@
 <br>
 
 -->
+
+<!--
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=zzeon9&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/zzeon9?pet-id=709336252386404598"
@@ -30,6 +32,8 @@
     height="100"
   />
 </a>
+
+-->
   <br>
   <br>
 
