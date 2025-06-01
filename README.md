@@ -39,7 +39,7 @@
   <br>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=ecw1110)](https://solved.ac/ecw1110)
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ecw1110)](https://solved.ac/ecw1110)
 
   
 </a>
