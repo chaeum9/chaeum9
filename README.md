@@ -1,45 +1,22 @@
-# Welcome to my page! 
+## 👋 Chaewon Lee
+<p>
+<strong>코드로 사용자의 '불편함'을 '편리함'으로 바꾸는 백엔드 개발자 이채원입니다.</strong>
+</p>
 
-## About Me
-> 사용자 중심의 문제 해결과 기술적 성장을 즐기는 백엔드 개발자입니다.   
-> 함께 성장하는 것이 곧 **최고의 개발**이라고 믿으며, 팀과 제품이 함께 나아갈 수 있도록 고민합니다.
+사용자 관점에서 문제의 본질을 깊이 파악하고, 이에 대한 기술적 해결책을 제시하여 서비스의 가치를 높이기 위해 노력합니다.<br>
+'함께 성장한다'는 것은 개발자에게 가장 좋은 동기부여라고 생각하며, 서로의 지식과 경험을 나누며 문제를 해결해 나가는 것을 최고의 가치라고 생각합니다.
 
-
-<!--
-## Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
- 
-  <br>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=MySQL&logoColor=white"/>
-  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=white"/>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
-</div>
 <br>
 
--->
-
-<!--
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=zzeon9&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/zzeon9?pet-id=709336252386404598"
-    width="600"
-    height="100"
-  />
-</a>
-
--->
+[![chaewon lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeum9)](https://github.com/chaeum9/github-readme-stats)
 
 
-  <br>
+### 🛠️ Skills
+I use it often.<br>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql)](https://skillicons.dev)
+<br>
+   
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ecw1110)](https://solved.ac/ecw1110)
+### 🌱 Solved.ac
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ecw1110)](https://solved.ac/ecw1110)
 
-  
-</a>
